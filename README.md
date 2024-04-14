@@ -8,7 +8,7 @@ Welcome to Weather Finder built using Next.js, Tailwind CSS, React-Query and Axi
 
 ## Live Demo
 
-Check out the live demo of the website: 
+Check out the live demo of the website: https://weather-find3er.netlify.app/
 
 ## Technologies Used
 
